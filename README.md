@@ -1,6 +1,15 @@
 # 📦 Inventory Database API (Part B)
 Backend:https://inventory-database-project-5.onrender.com
 
+## API Endpoints
+
+GET /inventory  
+GET /inventory-summary  
+
+Base URL:
+https://inventory-database-project-5.onrender.com
+
+
 ## 🚀 Overview
 
 This project implements a backend API for managing suppliers and their inventory. It allows creating suppliers, adding inventory items, and retrieving data including a grouped summary of total inventory value per supplier.
